@@ -542,7 +542,7 @@ soupsieve==2.5
     # via beautifulsoup4
 stack-data==0.6.3
     # via ipython
-starlette==0.36.3
+starlette==0.40.0
     # via
     #   fastapi
     #   prometheus-fastapi-instrumentator
