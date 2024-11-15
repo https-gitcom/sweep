@@ -47,7 +47,7 @@
     "lodash": "^4.17.21",
     "lucide-react": "^0.378.0",
     "next": "14.2.3",
-    "next-auth": "^4.24.7",
+    "next-auth": "^4.24.10",
     "next-themes": "^0.3.0",
     "octokit": "^4.0.2",
     "posthog-js": "^1.136.7",
