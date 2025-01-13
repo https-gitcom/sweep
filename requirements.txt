@@ -648,7 +648,7 @@ urllib3==2.2.1
     #   sentry-sdk
     #   types-requests
 uvicorn==0.29.0
-virtualenv==20.25.1
+virtualenv==20.26.6
     # via poetry
 voyageai==0.2.1
 wcwidth==0.2.13
